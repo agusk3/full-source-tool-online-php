@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
-<form onsubmit="window.location.href='/proxy.php/' + document.getElementById('site').value; return false">
+<form onsubmit="window.location.href='/run.php/' + document.getElementById('site').value; return false">
     <div class="form-title-row">
         <h1>Run-Proxy.Ga</h1>
         </div>
